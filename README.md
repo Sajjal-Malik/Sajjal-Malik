@@ -11,16 +11,7 @@ I’m a web developer with an interest in creating scalable web applications and
 - 📈 Learning **SEO** to optimize websites for search engines and improve online visibility.
 
   ### Programming Languages:
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,sql,c,cpp,java)](https://skillicons.dev)
-  ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=white&style=for-the-badge)
-  ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white&style=for-the-badge)
-  ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black&style=for-the-badge)
-  ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white&style=for-the-badge)
-  ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=4CAF50&logo=mysql&logoColor=white&style=for-the-badge)
-  ![C](https://img.shields.io/static/v1?label=&message=C&color=007ACC&logo=c&logoColor=white&style=for-the-badge)
-  ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=5C2D91&logo=cplusplus&logoColor=white&style=for-the-badge)
-  ![Java](https://img.shields.io/static/v1?label=&message=Java&color=FF7F32&logo=java&logoColor=white&style=for-the-badge)
-
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,c,cpp,java)](https://skillicons.dev)
 
   ### Tools & Frameworks:
   ![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white&style=for-the-badge)

@@ -16,8 +16,11 @@ I’m a web developer with an interest in creating scalable web applications and
   ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white)
   ![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white)
+  ![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=003B57&logo=matplotlib&logoColor=white)
+  ![Seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=1F77B4&logo=seaborn&logoColor=white)
+  ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=00618A&logo=mysql&logoColor=white)
   ![Google Analytics](https://img.shields.io/static/v1?label=&message=Google%20Analytics&color=F5C300&logo=google-analytics&logoColor=white)
 
 

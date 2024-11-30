@@ -17,6 +17,7 @@ I’m a web developer with an interest in creating scalable web applications and
   ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white&style=for-the-badge)
   ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=cplusplus&logoColor=white&style=for-the-badge)
   ![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=white&style=for-the-badge)
+  ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=00618A&logo=mysql&logoColor=white&style=for-the-badge)
 
 
   ### Tools & Frameworks:

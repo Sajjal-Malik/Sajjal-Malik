@@ -45,7 +45,7 @@ I’m a web developer with an interest in creating scalable web applications and
 - Analyzing website traffic and performance metrics using tools like **Google Analytics**
 - Improving page load speed and user experience for better ranking
 
-### Connect with Me:
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sajjal-malik-589019214/)
-[![Stack Overflow](https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=FE7A16&logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/19632091/sajjal-malik)
+  ### Connect with Me:
+  [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sajjal-malik-589019214/)
+  [![Stack Overflow](https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=FE7A16&logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/19632091/sajjal-malik)
 

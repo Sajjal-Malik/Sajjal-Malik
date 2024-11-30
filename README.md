@@ -11,12 +11,14 @@ I’m a web developer with an interest in creating scalable web applications and
 - 📈 Learning **SEO** to optimize websites for search engines and improve online visibility.
 
   ### Languages and Tools:
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
-
+  ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white)
+  ![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=003B57&logo=matplotlib&logoColor=white)
+  ![Google Analytics](https://img.shields.io/static/v1?label=&message=Google%20Analytics&color=F5C300&logo=google-analytics&logoColor=white)
 
 
 ## 🛠️ Skills

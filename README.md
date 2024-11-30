@@ -15,8 +15,8 @@ I’m a web developer with an interest in creating scalable web applications and
   ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white&style=for-the-badge)
   ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black&style=for-the-badge)
   ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white&style=for-the-badge)
-  ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=cplusplus&logoColor=white&style=for-the-badge)
-  ![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=white&style=for-the-badge)
+  ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=5C2D91&logo=cplusplus&logoColor=white&style=for-the-badge)
+  ![Java](https://img.shields.io/static/v1?label=&message=Java&color=FF7F32&logo=java&logoColor=white&style=for-the-badge)
   ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=4F5B93&logo=mysql&logoColor=white&style=for-the-badge)
 
 

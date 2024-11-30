@@ -1,4 +1,4 @@
-# 👨‍💻 [Sajjal Malik] - Web Developer & Data Analyst
+# [Sajjal Malik] - Web Developer & Data Analyst
 
 Welcome to my GitHub profile! I’m a passionate **Web Developer** with a focus on **Django** and **frontend development**. Currently, I am expanding my skill set in **data analysis** with **Python** and learning about **SEO** for **digital marketing**. I enjoy building dynamic web applications and exploring how data-driven insights can improve business outcomes.
 

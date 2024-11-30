@@ -15,9 +15,10 @@ I’m a web developer with an interest in creating scalable web applications and
   ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=white&style=for-the-badge)
   ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=black&style=for-the-badge)
   ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=white&style=for-the-badge)
+  ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=4CAF50&logo=mysql&logoColor=white&style=for-the-badge)
+  ![C](https://img.shields.io/static/v1?label=&message=C&color=007ACC&logo=c&logoColor=white&style=for-the-badge)
   ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=5C2D91&logo=cplusplus&logoColor=white&style=for-the-badge)
   ![Java](https://img.shields.io/static/v1?label=&message=Java&color=FF7F32&logo=java&logoColor=white&style=for-the-badge)
-  ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=4CAF50&logo=mysql&logoColor=white&style=for-the-badge)
 
 
   ### Tools & Frameworks:
@@ -49,4 +50,5 @@ I’m a web developer with an interest in creating scalable web applications and
   ### Connect with Me:
   [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sajjal-malik-589019214/)
   [![Stack Overflow](https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=FE7A16&logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/19632091/sajjal-malik)
-
+  ![Profile views](https://komarev.com/ghpvc/?username=Sajjal-Malik&style=flat-square)
+                                                                                          

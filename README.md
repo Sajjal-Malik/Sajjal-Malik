@@ -15,7 +15,7 @@ I’m a web developer with an interest in creating scalable web applications and
 
 
 ### Frameworks, Tools, Databases and Operating Systems:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,nodejs,numpy,pandas,matplotlib,seaborn,vscode,sublime,chatgpt,gemini,powershell,bash,sqlite,mysql,postgresql,mongodb,windows,linux)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,nodejs,numpy,pandas,matplotlib,seaborn,googleanalytics,vscode,sublime,chatgpt,gemini,powershell,bash,sqlite,mysql,postgresql,mongodb,windows,linux)
 
 
 ## 🛠️ Skills

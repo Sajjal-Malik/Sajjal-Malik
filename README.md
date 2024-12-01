@@ -13,6 +13,8 @@ I’m a web developer with an interest in creating scalable web applications and
 ### Web Development and Programming Languages:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,py,c,cpp,java)
 
+### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjal-Malik&layout=compact)
 
 ### Frameworks, Tools and Operating Systems:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,nodejs,numpy,pandas,matplotlib,seaborn,googleanalytics,vscode,sublime,chatgpt,gemini,powershell,bash,windows,linux)
@@ -45,8 +47,13 @@ I’m a web developer with an interest in creating scalable web applications and
   
 ### Profile Views and Commits Count:
 ![Profile views](https://komarev.com/ghpvc/?username=Sajjal-Malik&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/Sajjal-Malik?style=for-the-badge)
+![GitHub Commits](https://img.shields.io/github/commits-since/Sajjal-Malik/Sajjal-Malik/main/0?style=for-the-badge)
 
+### GitHub Streak and Stats:
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajjal-Malik&theme=dark" width="45%" style="margin-right: 50px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sajjal-Malik" width="45%" />
+</div>
 
 
 

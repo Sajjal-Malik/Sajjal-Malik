@@ -7,8 +7,8 @@ I’m a web developer with an interest in creating scalable web applications and
 
 - 🌱 Currently learning **Data Analysis with Python** and **SEO** for digital marketing.
 - 🖥️ Focused on **Django** for backend development and **HTML, CSS, JavaScript** for frontend design.
-- 📊 Exploring data analysis tools like **Pandas** and **Matplotlib** for effective data visualization.
 - 📈 Learning **SEO** to optimize websites for search engines and improve online visibility.
+- 📊 Exploring data analysis tools like **Pandas** and **Matplotlib** for effective data visualization.
 
 ### Web Development and Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,c,cpp,java)](https://skillicons.dev)

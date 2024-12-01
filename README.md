@@ -43,8 +43,10 @@ I’m a web developer with an interest in creating scalable web applications and
 [![Codewars](https://img.shields.io/static/v1?label=&message=Codewars&color=B1361E&logo=codewars&logoColor=white&style=for-the-badge)](https://www.codewars.com/users/Sajjal-Malik)
 [![LeetCode](https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/Sajjal-Malik/)
   
-### Profile Views:
+### Profile Views and Commits Count:
 ![Profile views](https://komarev.com/ghpvc/?username=Sajjal-Malik&style=for-the-badge)
+![GitHub Commits](https://img.shields.io/github/commits-since/Sajjal-Malik/Sajjal-Malik/main/0?style=for-the-badge)
+
 
 
                                                                                           

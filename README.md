@@ -11,17 +11,11 @@ I’m a web developer with an interest in creating scalable web applications and
 - 📊 Exploring data analysis tools like **Pandas** and **Matplotlib** for effective data visualization.
 
 ### Web Development and Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,c,cpp,java)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,py,c,cpp,java)
 
 
 ### Frameworks, Tools, Databases and Operating Systems:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,nodejs,numpy,pandas,matplotlib,seaborn,pycharm,vscode,chatgpt,gemini,powershell,bash,sqlite,mysql,postgresql,mongodb,windows,linux)
-![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=white&style=for-the-badge)
-![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=003B57&logo=matplotlib&logoColor=white&style=for-the-badge)
-![Seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=1F77B4&logo=seaborn&logoColor=white&style=for-the-badge)
-![Google Analytics](https://img.shields.io/static/v1?label=&message=Google%20Analytics&color=F5C300&logo=google-analytics&logoColor=white&style=for-the-badge)
 
 
 ## 🛠️ Skills

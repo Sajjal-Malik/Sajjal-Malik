@@ -45,7 +45,7 @@ I’m a web developer with an interest in creating scalable web applications and
   
 ### Profile Views and Commits Count:
 ![Profile views](https://komarev.com/ghpvc/?username=Sajjal-Malik&style=for-the-badge)
-![GitHub Commits](https://img.shields.io/github/commits-since/Sajjal-Malik/Sajjal-Malik/master/0?style=for-the-badge)
+![GitHub Commits](https://img.shields.io/github/commits-since/Sajjal-Malik/Sajjal-Malik/main/0?style=for-the-badge)
 
 
 

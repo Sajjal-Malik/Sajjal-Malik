@@ -31,15 +31,15 @@ I’m a web developer with an interest in creating scalable web applications and
 - Building responsive and user-friendly websites
 - Implementing **REST APIs** with Django REST Framework (DRF)
 
-### Data Analysis:
-- **Python**: Data manipulation with **Pandas** and data visualization with **Matplotlib** and **Seaborn**
-- Analyzing datasets to derive actionable insights and support decision-making
-- Learning **SQL** for database querying
-
 ### SEO & Digital Marketing:
 - **SEO**: Optimizing websites for search engines by applying SEO best practices
 - Analyzing website traffic and performance metrics using tools like **Google Analytics**
 - Improving page load speed and user experience for better ranking
+
+### Data Analysis:
+- **Python**: Data manipulation with **Pandas** and data visualization with **Matplotlib** and **Seaborn**
+- Analyzing datasets to derive actionable insights and support decision-making
+- Learning **SQL** for database querying
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sajjal-malik-589019214/)

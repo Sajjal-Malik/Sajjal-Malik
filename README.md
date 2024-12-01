@@ -14,7 +14,8 @@ I’m a web developer with an interest in creating scalable web applications and
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,c,cpp,java)](https://skillicons.dev)
 
 
-### Tools, Frameworks, Databases and Operating Systems:
+### Frameworks, Tools, Databases and Operating Systems:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,nodejs,numpy,pandas,matplotlib,seaborn,pycharm,vscode,chatgpt,gemini,powershell,bash,sqlite,mysql,postgresql,mongodb,windows,linux)
 ![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=white&style=for-the-badge)

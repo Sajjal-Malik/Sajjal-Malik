@@ -41,10 +41,10 @@ I’m a web developer with an interest in creating scalable web applications and
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sajjal-malik-589019214/)
 [![Stack Overflow](https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=FE7A16&logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/19632091/sajjal-malik)
-[![GeeksforGeeks](https://img.shields.io/static/v1?label=&message=GeeksforGeeks&color=2F8D46&logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/malik007/)
 [![LeetCode](https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/Sajjal-Malik/)
-[![Codewars](https://img.shields.io/static/v1?label=&message=Codewars&color=B1361E&logo=codewars&logoColor=white&style=for-the-badge)](https://www.codewars.com/users/Sajjal-Malik)
 [![FreeCodeCamp](https://img.shields.io/static/v1?label=&message=FreeCodeCamp&color=001F3F&logo=freecodecamp&logoColor=white&style=for-the-badge)](https://www.freecodecamp.org/malik_007)
+[![Codewars](https://img.shields.io/static/v1?label=&message=Codewars&color=B1361E&logo=codewars&logoColor=white&style=for-the-badge)](https://www.codewars.com/users/Sajjal-Malik)
+[![GeeksforGeeks](https://img.shields.io/static/v1?label=&message=GeeksforGeeks&color=2F8D46&logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/malik007/)
 
   
 ### Profile Views and Commits Count:

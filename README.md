@@ -47,10 +47,6 @@ I’m a web developer with an interest in creating scalable web applications and
 [![LeetCode](https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/Sajjal-Malik/)
 [![GeeksforGeeks](https://img.shields.io/static/v1?label=&message=GeeksforGeeks&color=2F8D46&logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/malik007/)
 [![Codewars](https://img.shields.io/static/v1?label=&message=Codewars&color=B1361E&logo=codewars&logoColor=white&style=for-the-badge)](https://www.codewars.com/users/Sajjal-Malik)
-[![HackerEarth](https://img.shields.io/static/v1?label=&message=HackerEarth&color=2C3454&logo=hackerearth&logoColor=white&style=for-the-badge)](https://www.hackerearth.com/@sajjalmalik.sm)
-[![HackerRank](https://img.shields.io/static/v1?label=&message=HackerRank&color=2EC866&logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/sajjalmalik_sm)
-
-
 
   
 ### Profile Views and Commits Count:

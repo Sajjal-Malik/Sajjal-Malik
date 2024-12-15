@@ -23,8 +23,7 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajjal-Malik&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjal-Malik&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajjal-Malik&theme=dark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjal-Malik&layout=compact)
 
 ---
 

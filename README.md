@@ -13,7 +13,7 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 
 ## 🛠️ Skills
 
-**Web Development**: Django | HTML | CSS | JavaScript
+**Web Development**: Django | HTML | CSS | JavaScript | C                               
 **Data Analysis**: Python | Pandas | Matplotlib | Seaborn | SQL  
 **Tools**: VSCode | PowerShell | Bash | Windows | Linux | Git | Google Analytics
 

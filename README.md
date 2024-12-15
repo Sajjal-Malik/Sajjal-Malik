@@ -6,25 +6,24 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 
 ## 🚀 About Me
 - 🌱 Learning **Data Analysis** with **Python**, **SQL**, and **SEO** for digital marketing.
-- 🛠️ Focused on **Django**, **HTML**, **CSS**, **JavaScript**.
+- 🛠️ Focused on **Django**, **HTML**, **CSS**, and **JavaScript**.
 - 📊 Exploring tools like **Pandas**, **Matplotlib**, and **Google Analytics**.
 
 ---
 
 ## 🛠️ Skills
 
-**Web Development**: Django | HTML | CSS | JavaScript  
+**Web Development**: Django | HTML | CSS | JavaScript
 **Data Analysis**: Python | Pandas | Matplotlib | Seaborn | SQL  
-**Tools**: VSCode | PowerShell | Bash | Windows | Linux | Git | Google Analytics  
-**Programming Languages**: C
+**Tools**: VSCode | PowerShell | Bash | Windows | Linux | Git | Google Analytics
 
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=django,html,css,js,py,pandas,matplotlib,c,git,googleanalytics,powershell,bash,windows,linux)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=django,html,css,js,py,pandas,matplotlib,git,googleanalytics,powershell,bash,windows,linux)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajjal-Malik&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajjal-Malik&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjal-Malik&layout=compact)
 
 ---
@@ -35,4 +34,4 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sajjal-Malik&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sajjal-Malik&style=for-the-badge) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/Sajjal-Malik/Sajjal-Malik?style=for-the-badge)

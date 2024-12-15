@@ -5,8 +5,8 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 ---
 
 ## 🚀 About Me
-- 🌱 Learning **Data Analysis** with **Python** & **SEO** for digital marketing.
-- 🛠️ Focused on **Django**, **HTML**, **CSS**, and **JavaScript**.
+- 🌱 Learning **Data Analysis** with **Python**, **SQL**, and **SEO** for digital marketing.
+- 🛠️ Focused on **Django**, **HTML**, **CSS**, **JavaScript**, and **C**.
 - 📊 Exploring tools like **Pandas**, **Matplotlib**, and **Google Analytics**.
 
 ---
@@ -14,10 +14,11 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 ## 🛠️ Skills
 
 **Web Development**: Django | HTML | CSS | JavaScript  
-**Data Analysis**: Python | Pandas | Matplotlib | Seaborn  
-**Tools**: VSCode | PowerShell | Bash | Windows | Linux
+**Data Analysis**: Python | Pandas | Matplotlib | Seaborn | SQL  
+**Tools**: VSCode | PowerShell | Bash | Windows | Linux | Git | Google Analytics  
+**Programming Languages**: C
 
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=django,html,css,js,py,pandas,matplotlib,powershell,bash,windows,linux)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=django,html,css,js,py,pandas,matplotlib,mysql,c,git,googleanalytics,powershell,bash,windows,linux)
 
 ---
 
@@ -35,4 +36,3 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sajjal-Malik&style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Sajjal-Malik/Sajjal-Malik?style=for-the-badge)

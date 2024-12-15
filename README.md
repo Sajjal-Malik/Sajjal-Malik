@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 
 ## 🚀 About Me
 - 🌱 Learning **Data Analysis** with **Python**, **SQL**, and **SEO** for digital marketing.
-- 🛠️ Focused on **Django**, **HTML**, **CSS**, **JavaScript**, and **C**.
+- 🛠️ Focused on **Django**, **HTML**, **CSS**, **JavaScript**.
 - 📊 Exploring tools like **Pandas**, **Matplotlib**, and **Google Analytics**.
 
 ---
@@ -18,7 +18,7 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 **Tools**: VSCode | PowerShell | Bash | Windows | Linux | Git | Google Analytics  
 **Programming Languages**: C
 
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=django,html,css,js,py,pandas,matplotlib,mysql,c,git,googleanalytics,powershell,bash,windows,linux)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=django,html,css,js,py,pandas,matplotlib,c,git,googleanalytics,powershell,bash,windows,linux)
 
 ---
 

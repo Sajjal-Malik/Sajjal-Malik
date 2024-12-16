@@ -1,6 +1,6 @@
 # [Sajjal Malik] - Web Developer & Data Analyst
 
-Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Django** and **frontend development**, currently expanding my skills in **Data Analysis** and **SEO** for **digital marketing**.
+Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Django** and **frontend development**, currently expanding my skills in **Data Analysis**.
 
 ---
 

@@ -1,11 +1,11 @@
 # [Sajjal Malik] - Web Developer & Data Analyst
 
-Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Django** and **frontend development**, currently expanding my skills in **Data Analysis**.
+Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Django** and **frontend development**, currently expanding my skills in **Data Analysis** and **SEO** for **digital marketing**.
 
 ---
 
 ## 🚀 About Me
-- 🌱 Learning **Data Analysis** with **Python**, **SQL**
+- 🌱 Learning **Data Analysis** with **Python**, **SQL**, and **SEO** for digital marketing.
 - 🛠️ Focused on **Django**, **HTML**, **CSS**, and **JavaScript**.
 - 📊 Exploring tools like **Pandas**, **Matplotlib**, and **Google Analytics**.
 
@@ -13,9 +13,9 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 
 ## 🛠️ Skills
 
-**Web Development**: Django | HTML | CSS | JavaScript | C                               
+**Web Development**: Django | HTML | CSS | JavaScript  
 **Data Analysis**: Python | Pandas | Matplotlib | Seaborn | SQL  
-**Tools**: VSCode | Replit | PowerShell | Bash | Windows | Linux | Git
+**Tools**: VSCode | PowerShell | Bash | Windows | Linux | Git | Google Analytics
 
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=django,html,css,js,py,pandas,matplotlib,git,googleanalytics,powershell,bash,windows,linux)
 
@@ -23,7 +23,7 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjal-Malik&layout=compact)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajjal-Malik&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajjal-Malik&theme=dark&show_icons=true)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjal-Malik&layout=compact)
 
 ---
 

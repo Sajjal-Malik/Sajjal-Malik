@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m a passionate **Web Developer** specializing in **Dja
 **Data Analysis**: Python | Pandas | Matplotlib | Seaborn | SQL  
 **Tools**: VSCode | PowerShell | Bash | Windows | Linux | Git | Google Analytics
 
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=django,html,css,js,py,php,c,cpp,java,pandas,matplotlib,git,googleanalytics,powershell,bash,windows,linux)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=django,html,css,c,py,php,js,cpp,java,pandas,matplotlib,git,googleanalytics,powershell,bash,windows,linux)
 
 ---
 

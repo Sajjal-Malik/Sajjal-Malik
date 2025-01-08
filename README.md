@@ -1,8 +1,8 @@
 Code.Create.Innovate.Dominate 💻
 
 ## 🚀 About Me
-- 🛠️ Focused on **HTML**, **CSS**, **JavaScript**, **React**, **Python**, **Django** and **SQL** 
-- 📊 Exploring tools like **Numpy**, **Pandas**, **Seaborn** and **Matplotlib** and others.
+- 🛠️ Focused on Full Stack Web Development.
+- 📊 Exploring more about Latest Techs and Trends.
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Sajjal-Malik&show_icons=true&theme=dark)

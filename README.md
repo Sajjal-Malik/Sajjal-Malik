@@ -1,7 +1,7 @@
 Code.Create.Innovate.Dominate 💻
 
 ## 🚀 About Me
-- 🛠️ Focused on Full Stack Web Development.
+- 🛠️ Focused on Full Stack Software Development.
 - 📊 Exploring more about Latest Techs and Trends like (AI and CyberSec).
 
 ## 📊 GitHub Stats

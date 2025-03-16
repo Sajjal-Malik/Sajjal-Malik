@@ -2,7 +2,7 @@ Code.Create.Innovate.Dominate 💻
 
 ## 🚀 About Me
 - 🛠️ Focused on Full Stack Software Development and Digital Marketing.
-- 📊 Exploring more about Latest Techs and Trends like CyberSec and AI.
+- 📊 Exploring more about Latest Techs and Trends like Cyber Security & Artificial Intelligence.
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Sajjal-Malik&show_icons=true&theme=dark)

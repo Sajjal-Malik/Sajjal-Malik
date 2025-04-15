@@ -1,7 +1,7 @@
 Code.Create.Innovate.Dominate 💻
 
 ## 🚀 About Me
-- 🛠️ Focused on Full Stack Software Development and Digital Marketing.
+- 🛠️ Focused on Full Stack Software Engineering and Digital Marketing.
 - 📊 Exploring more about Latest Techs and Trends in Cyber Security and Artificial Intelligence.
 
 ## 📊 GitHub Stats

@@ -1,7 +1,7 @@
 Code.Create.Innovate.Dominate 💻
 
 ## 🚀 About Me
-- 🛠️ Focused on Software Engineering and Digital Marketing.
+- 🛠️ Focused on Digital Marketing and Software Engineering.
 - 📊 Exploring more about Latest Techs and Trends in Cyber Security and Artificial Intelligence.
 
 ## 📊 GitHub Stats

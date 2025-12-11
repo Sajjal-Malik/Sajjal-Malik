@@ -1,4 +1,3 @@
-Code.Create.Innovate.Dominate 💻
 ## 🚀 About Me
 - 💻 Focused on Developing and Hacking.
 ## 📊 GitHub Stats

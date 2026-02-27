@@ -1,4 +1,4 @@
-### 🚀 Software Developer | 🛡️ Ethical Hacker | 🧠 Lifelong Learner
+### 🚀 Software Engineer | 🛡️ Ethical Hacker | 🧠 Lifelong Learner
 
 ---
 

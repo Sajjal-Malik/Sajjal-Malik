@@ -1,4 +1,4 @@
-### 🧠 Lifelong Learner
+### 💻 Developer & Hacker 🧠 Lifelong Learner
 
 - 🔭 Building software with a strong focus on fundamentals, performance, and security
 - 🌱 Deepening my understanding of low-level programming, computer systems, and software fundamentals

@@ -2,9 +2,9 @@
 
 ### 💻 Full Stack Software Developer | ⚙️ Systems Engineering | 🔐 Security Enthusiast
 
-I'm a Full Stack Software Developer with professional experience building and deploying modern web applications using **Laravel, JavaScript, React and MySQL**. My foundation is delivering reliable software, while my long-term passion lies in understanding how systems work under the hood.
+I'm a Full Stack Software Developer building modern web applications with **JavaScript, React, Laravel, and MySQL**.
 
-Currently, I'm expanding my expertise with **TypeScript (React)** and **Go (Gin)** to build modern, scalable applications, while spending my spare time exploring ethical hacking, penetration testing, and computer systems.
+Currently expanding my expertise in **TypeScript (React)** and **Go (Gin)** while exploring systems engineering, ethical hacking, and secure software development.
 
 > ⚡ **Learn • Build • Secure • Scale • Repeat** ⚡
 
@@ -12,70 +12,60 @@ Currently, I'm expanding my expertise with **TypeScript (React)** and **Go (Gin)
 
 ### 👨‍💻 About Me
 
-* 🏢 **Current Focus:** Building full-stack web applications with an emphasis on clean architecture, performance, and secure development.
-* 🌱 **Currently Learning:** TypeScript (React), Go (Gin), Docker, system design, and backend architecture.
-* 🔐 **Security Journey:** Exploring ethical hacking, penetration testing, reverse engineering, and secure software development.
-* ⚙️ **Systems Engineering:** Studying operating systems, networking, and computer architecture to become a better software engineer.
+- 💼 Building modern full-stack web applications
+- 🌱 Learning **TypeScript (React)**, **Go (Gin)**, Docker, Linux & System Design
+- 🔐 Exploring ethical hacking, penetration testing & secure software development
+- ⚙️ Passionate about operating systems, networking & computer architecture
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Tech Stack
 
 #### 🚀 Production Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 📚 Currently Learning
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### 🐍 Previous Experience
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
 ### ⚙️ My Daily Routine
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  currentMission: string;
-  interests: string[];
-}
-
-const me: Developer = {
-  name: "Sajjal Malik",
+```
+const developer = {
   role: "Full Stack Software Developer",
-  currentMission:
-    "Building modern full-stack applications while mastering TypeScript and Go",
+  currentStack: ["Laravel", "React", "JavaScript", "PHP", "MySQL"],
+  learning: ["TypeScript", "Go", "Gin", "Docker", "Linux"],
   interests: [
     "Software Engineering",
     "Systems Engineering",
-    "Cybersecurity",
-    "Ethical Hacking",
-    "System Design"
+    "Cyber Security",
+    "Ethical Hacking"
   ]
 };
 
-const executeDay = () => {
+while (true) {
   learn();
   build();
   secure();
-  scale();
-  repeat();
-};
+  improve();
+}
 ```
 
 ---

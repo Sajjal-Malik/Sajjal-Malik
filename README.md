@@ -48,7 +48,14 @@ Currently expanding my expertise in **TypeScript (React)** and **Go (Gin)** whil
 ### ⚙️ My Daily Routine
 
 ```
-const developer = {
+type Developer = {
+  role: string,
+  currentStack: string[],
+  learning: string[],
+  interests: string[]
+};
+
+const IsDeveloper: Developer = {
   role: "Full Stack Software Developer",
   currentStack: ["Laravel", "React", "JavaScript", "PHP", "MySQL"],
   learning: ["TypeScript", "Go", "Gin", "Docker", "Linux"],
@@ -60,7 +67,7 @@ const developer = {
   ]
 };
 
-while (true) {
+if (IsDeveloper) {
   learn();
   build();
   secure();

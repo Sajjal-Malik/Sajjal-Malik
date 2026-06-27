@@ -12,10 +12,10 @@ Currently expanding my expertise in **TypeScript (React)** and **Go (Gin)** whil
 
 ### 👨‍💻 About Me
 
-- 💼 Building modern full-stack web applications
+- 💼 Building modern Full-Stack Web Applications
 - 🌱 Learning **TypeScript (React)**, **Go (Gin)**, Docker, Linux & System Design
-- 🔐 Exploring ethical hacking, penetration testing & secure software development
-- ⚙️ Passionate about operating systems, networking & computer architecture
+- 🔐 Exploring Ethical Hacking, Penetration Testing & Secure Software Development
+- ⚙️ Passionate about Operating Systems, Networking & Computer Architecture
 
 ---
 

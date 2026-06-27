@@ -67,7 +67,7 @@ const IsDeveloper: Developer = {
   ]
 };
 
-if (IsDeveloper !== null || IsDeveloper !== undefined) {
+if (IsDeveloper !== null && IsDeveloper !== undefined) {
   keep_learning();
   keep_building();
   keep_securing();

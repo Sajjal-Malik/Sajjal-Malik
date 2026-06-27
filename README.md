@@ -4,7 +4,7 @@
 
 I'm a Full Stack Software Developer building modern web applications with **JavaScript, React, Laravel, and MySQL**.
 
-Currently expanding my expertise in **TypeScript (React)** and **Go (Gin)** while exploring systems engineering, ethical hacking, and secure software development.
+Currently expanding my expertise in **Full Stack TypeScript Ecosystem** while exploring Systems Engineering, Ethical Hacking, and Secure Software Development.
 
 > ⚡ **Learn • Build • Secure • Scale • Repeat** ⚡
 
@@ -13,9 +13,9 @@ Currently expanding my expertise in **TypeScript (React)** and **Go (Gin)** whil
 ### 👨‍💻 About Me
 
 - 💼 Building modern Full-Stack Web Applications
-- 🌱 Learning **TypeScript (React)**, **Go (Gin)**, Docker, Linux & System Design
-- 🔐 Exploring Ethical Hacking, Penetration Testing & Secure Software Development
+- 🌱 Learning **Full-Stack TypeScript Development** & More.
 - ⚙️ Passionate about Operating Systems, Networking & Computer Architecture
+- 🔐 Exploring Ethical Hacking, Penetration Testing & Secure Software Development
 
 ---
 
@@ -35,8 +35,6 @@ Currently expanding my expertise in **TypeScript (React)** and **Go (Gin)** whil
 #### 📚 Currently Learning
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### 🐍 Previous Experience
@@ -59,8 +57,8 @@ type Developer = {
 const IsDeveloper: Developer = {
   role: "Full Stack Software Developer",
   currentStack: ["Laravel", "React", "JavaScript", "PHP", "MySQL"],
-  learning: ["TypeScript", "Go", "Gin", "Docker", "Linux"],
-  interests: ["Software Engineering","Systems Engineering","Cyber Security","Ethical Hacking"]
+  learning: ["TypeScript", "Linux"],
+  interests: ["Software Engineering","Systems Engineering","Ethical Hacking"]
 };
 
 if (IsDeveloper) {

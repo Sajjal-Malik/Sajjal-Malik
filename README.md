@@ -58,7 +58,7 @@ type Developer = {
 
 const IsDeveloper: Developer = {
   role: "Full Stack Software Developer",
-  currentStack: ["Laravel", "React", "JavaScript", "PHP", "MySQL"],
+  currentStack: ["JavaScript", "React", "PHP", "Laravel", "MySQL"],
   learning: ["TypeScript", "Golang", "Docker", "Linux"],
   interests: ["Software Engineering","Systems Engineering","Ethical Hacking"]
 };

@@ -67,11 +67,11 @@ const IsDeveloper: Developer = {
   ]
 };
 
-if (IsDeveloper) {
-  learn();
-  build();
-  secure();
-  improve();
+if (IsDeveloper !== null || IsDeveloper !== undefined) {
+  keep_learning();
+  keep_building();
+  keep_securing();
+  keep_improving();
 }
 ```
 

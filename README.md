@@ -59,12 +59,7 @@ const IsDeveloper: Developer = {
   role: "Full Stack Software Developer",
   currentStack: ["Laravel", "React", "JavaScript", "PHP", "MySQL"],
   learning: ["TypeScript", "Go", "Gin", "Docker", "Linux"],
-  interests: [
-    "Software Engineering",
-    "Systems Engineering",
-    "Cyber Security",
-    "Ethical Hacking"
-  ]
+  interests: ["Software Engineering","Systems Engineering","Cyber Security","Ethical Hacking"]
 };
 
 if (IsDeveloper) {

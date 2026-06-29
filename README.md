@@ -4,7 +4,7 @@
 
 I'm a Full Stack Software Developer building modern web applications with **JavaScript, React, Laravel, and MySQL**.
 
-Currently expanding my expertise in **TypeScript & Golang** while exploring Systems Engineering, Ethical Hacking, and Secure Software Development.
+Currently expanding my expertise in **TypeScript & GoLang** while exploring Systems Engineering, Ethical Hacking, and Secure Software Development.
 
 > ⚡ **Learn • Build • Secure • Scale • Repeat** ⚡
 
@@ -13,7 +13,7 @@ Currently expanding my expertise in **TypeScript & Golang** while exploring Syst
 ### 👨‍💻 About Me
 
 - 💼 Building modern Full-Stack Web Applications
-- 🌱 Learning **TypeScript & Golang**, System Design & More.
+- 🌱 Learning **TypeScript & GoLang**, System Design & More.
 - ⚙️ Passionate about Operating Systems, Networking & Computer Architecture
 - 🔐 Exploring Ethical Hacking, Penetration Testing & Secure Software Development
 
@@ -35,7 +35,7 @@ Currently expanding my expertise in **TypeScript & Golang** while exploring Syst
 #### 📚 Currently Learning
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Cloud](https://img.shields.io/badge/cloud-%23452ed.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -60,7 +60,7 @@ type Developer = {
 const IsDeveloper: Developer = {
   role: "Full Stack Software Developer",
   currentStack: ["JavaScript", "React", "PHP", "Laravel", "MySQL"],
-  learning: ["TypeScript", "Golang", "Cloud Computing", "Docker", "Linux"],
+  learning: ["TypeScript", "GoLang", "Cloud Computing", "Docker", "Linux"],
   interests: ["Software Engineering","Systems Engineering","Ethical Hacking"]
 };
 

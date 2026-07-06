@@ -47,33 +47,6 @@ Currently expanding my expertise in **TypeScript & GoLang** while exploring Syst
 
 ---
 
-### ⚙️ My Daily Routine
-
-```
-type Developer = {
-  role: string,
-  currentStack: string[],
-  learning: string[],
-  interests: string[]
-};
-
-const IsDeveloper: Developer = {
-  role: "Full Stack Software Developer",
-  currentStack: ["JavaScript", "React", "PHP", "Laravel", "MySQL"],
-  learning: ["TypeScript", "GoLang", "Cloud Computing", "Docker", "Linux"],
-  interests: ["Software Engineering","Systems Engineering","Ethical Hacking"]
-};
-
-if (IsDeveloper) {
-  keep_learning();
-  keep_building();
-  keep_securing();
-  keep_improving();
-}
-```
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">

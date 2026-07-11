@@ -1,6 +1,6 @@
 # Hi there, I'm Sajjal Malik 👋
 
-### 💻 Software Developer | ⚙️ Systems Engineering | 🔐 Security Enthusiast
+### 💻 Software Developer | 🔐 Security Enthusiast | ⚙️ Systems Engineering
 
 I'm a Full Stack Software Developer building modern web applications with **JavaScript, React, Laravel, and MySQL**.
 

@@ -12,10 +12,10 @@ Currently expanding my expertise in **TypeScript & GoLang** while exploring Syst
 
 ### 👨‍💻 About Me
 
-- 💼 Building modern Full-Stack Web Applications
-- 🌱 Learning **TypeScript & GoLang**, System Design & More.
-- ⚙️ Passionate about Operating Systems, Networking & Computer Architecture
-- 🔐 Exploring Ethical Hacking, Penetration Testing & Secure Software Development
+- 💼 Building Modern Full-Stack Web Applications.
+- 🌱 Learning **TypeScript & GoLang**, System Design etc.
+- 🔐 Exploring Ethical Hacking, Penetration Testing & Secure Development.
+- ⚙️ Passionate about Kernels, Operating Systems, Networking & Computer Architecture.
 
 ---
 

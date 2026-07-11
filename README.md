@@ -4,7 +4,7 @@
 
 I'm a Full Stack Software Developer building modern web applications with **JavaScript, React, Laravel, and MySQL**.
 
-Currently expanding my expertise in **TypeScript & GoLang** while exploring Systems Engineering, Ethical Hacking, and Secure Software Development.
+Currently expanding my expertise in **TypeScript & GoLang** while exploring Ethical Hacking, Systems Engineering, and Secure Software Development.
 
 > ⚡ **Learn • Build • Secure • Scale • Repeat** ⚡
 

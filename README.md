@@ -50,11 +50,6 @@ Currently expanding my Expertise in **TypeScript & GoLang** while exploring Ethi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sajjal-Malik&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjal-Malik&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
   <img width="700" src="https://streak-stats.demolab.com?user=Sajjal-Malik&theme=github-dark&hide_border=true" />
 </p>
 

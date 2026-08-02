@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer | 🔐 Security Enthusiast | ⚙️ Systems Engineering
 
-I'm a Full Stack Software Developer building modern web applications with **JavaScript, React, Laravel, and MySQL**.
+I'm a Full Stack Software Developer building modern web applications with **JavaScript, React, PHP, Laravel, and MySQL**.
 
 Currently expanding my Expertise in **TypeScript & GoLang** while exploring Ethical Hacking, Systems Engineering, and Secure Software Development.
 

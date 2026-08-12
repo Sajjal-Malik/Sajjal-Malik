@@ -1,4 +1,4 @@
-# Hi there, I'm Sajjal Malik 👋
+# Hi there, 👋
 
 ### 💻 Software Developer | 🔐 Security Enthusiast | ⚙️ Systems Engineering
 

@@ -12,8 +12,8 @@ Currently expanding my Expertise in **TypeScript & GoLang** while exploring Ethi
 
 ### 👨‍💻 About Me
 
-- 💼 Building Modern Full-Stack Web Applications.
-- 🌱 Learning **TypeScript & GoLang**, System Design & More.
+- 💼 Building Modern Full-Stack Web Applications. (Working on VoyagX)
+- 🌱 Learning **TypeScript & GoLang**, System Design & More. (In Free Time)
 - 🔐 Exploring Ethical Hacking, Penetration Testing & Secure Development.
 - ⚙️ Passionate about Kernels, Operating Systems, Networking & Computer Architecture.
 
